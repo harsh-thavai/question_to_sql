@@ -22,8 +22,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/nl-to-sql-inventory-query.git
-   cd nl-to-sql-inventory-query
+   git clone [https://github.com/your-username/nl-to-sql-inventory-query.git
+   cd nl-to-sql-inventory-query](https://github.com/harsh-thavai/question_to_sql.git)
    ```
 
 2. Install the required Python packages:
