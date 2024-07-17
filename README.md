@@ -1,4 +1,4 @@
-# Natural Language to SQL Query Generator for Inventory Management
+# Natural Language to SQL Query Generator
 
 This project is a Streamlit-based web application that converts natural language questions into SQL queries for inventory management. It specifically interfaces with the AtliQ T-Shirts database but can be adapted for other inventory systems. The application leverages Google's Generative AI to transform user questions into SQL queries, which are then executed against the database.
 
